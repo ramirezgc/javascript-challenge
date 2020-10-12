@@ -1,4 +1,4 @@
 // from data.js
-var tableData = data;
+let tableData = data;
 
 // YOUR CODE HERE!
