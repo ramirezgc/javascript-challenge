@@ -13,3 +13,5 @@ data.forEach(function(ufoSightings) {
         cell.text(value);
     });
 });
+
+let button = d3.select("#filter-btn");
